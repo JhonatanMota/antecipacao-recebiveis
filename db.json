@@ -10,7 +10,9 @@
             "localAmount": 234.9,
             "feeAmount": 1.64,
             "typeOperation": 0
-       },
+       }
+  ],
+    "conciliacao": [
             {
             "history": "Implantação de antecipação",
             "creditUnits": [],
@@ -24,7 +26,9 @@
              "bankCode": "1",
              "agencyCode ": "4362-1",
              "accountCode": "5237-X"
-       },
+       }
+  ],
+    "baixa": [
             {
             "history": "Baixa efetivada TOTVS Antecipa",
             "creditUnits": [],
